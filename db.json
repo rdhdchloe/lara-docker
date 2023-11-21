@@ -1,0 +1,17 @@
+{
+    "posts": [
+        {
+            "title" : "Laravel開発環境をDockerで構築する",
+            "author" : "Test User"
+        },
+        {
+            "title" : "DockerでLaravel開発環境を構築する",
+            "author" : "Test User"
+        }
+    ],
+    "profile": {
+        "first_name" : "Test",
+        "last_name" : "User",
+        "email" : "test@example.com"
+    }
+}
